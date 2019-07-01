@@ -1,3 +1,5 @@
+# find minimum cut for an undirected graph with duplicate edges but no self loops
+
 import pprint, random, copy, time
 
 def main():
